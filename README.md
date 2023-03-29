@@ -12,6 +12,8 @@ A detailed and thorough step-by-step analysis process performed on the Cyclistic
 
 Dataset was orginally taken from https://divvy-tripdata.s3.amazonaws.com/index.html (Only for year 2021)
 
+You can find my version of 12 month combined dirty and clean dataset here: https://drive.google.com/drive/folders/1SUcNHeHsHUkfsjkKNCX0RarrBh7sej40
+
 Analysis procedure:
 
 Download all of the monthly subsets
