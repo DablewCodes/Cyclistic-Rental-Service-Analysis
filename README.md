@@ -2,7 +2,7 @@
 
 • Tableau visualization : https://public.tableau.com/app/profile/wajahat.ali2627/viz/CyclisticBikeRentalServiceAnalysisCapstoneProjectforGoogleDataAnalyticsCourse/CyclisticDashboard)
 
-• SQL Queries used: 
+• SQL Queries used: https://github.com/DablewCodes/Cyclistic-Rental-Service-Analysis/blob/main/Quries.sql
 
 A detailed and thorough step-by-step analysis process performed on the Cyclistic Bike Rental Service dataset to answer the following stakeholder questions:
 
